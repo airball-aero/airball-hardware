@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name small-display-pi-attachment)(type KiCad)(uri ${KIPRJMOD}/small-display-pi-attachment.pretty)(options "")(descr ""))
+)

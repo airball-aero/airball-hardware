@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "2022-10-29_21-02-57")(type "KiCad")(uri "${KIPRJMOD}/2022-10-29_21-02-57.kicad_sym")(options "")(descr ""))
+  (lib (name "2022-10-29_22")(type "KiCad")(uri "${KIPRJMOD}/2022-10-29_22-50-54.kicad_sym")(options "")(descr ""))
+  (lib (name "2022-11-02_03-05-02")(type "Legacy")(uri "${KIPRJMOD}/2022-11-02_03-05-02/2022-11-02_03-05-02.lib")(options "")(descr ""))
+  (lib (name "VLS5045EX-100M")(type "Legacy")(uri "${KIPRJMOD}/VLS5045EX-100M.lib")(options "")(descr ""))
+  (lib (name "PAM2804AAB010")(type "Legacy")(uri "${KIPRJMOD}/PAM2804AAB010.lib")(options "")(descr ""))
+  (lib (name "VLS5045EX-4R7M")(type "Legacy")(uri "${KIPRJMOD}/VLS5045EX-4R7M.lib")(options "")(descr ""))
+)
