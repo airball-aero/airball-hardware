@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "compact-probe")(type "KiCad")(uri "${KIPRJMOD}/compact-probe.pretty")(options "")(descr ""))
+)
