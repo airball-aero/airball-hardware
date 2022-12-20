@@ -1,4 +1,4 @@
-20600527780323154
+20601805191391188
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86485,9 +86485,23 @@ XCVR_ESP32-S3-WROOM-1-N16R2
 61
 61
 compact-probe
+airball_logo
+
+
+0
+0
+0
+compact-probe
 baro_cap
 
 
 0
 2
 2
+compact-probe
+qwiic_logo
+
+
+0
+0
+0
