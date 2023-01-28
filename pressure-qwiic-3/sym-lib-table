@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "airball-hardware")(type "KiCad")(uri "/home/ihab/airball-hardware/lib/airball-hardware.kicad_sym")(options "")(descr ""))
+)
