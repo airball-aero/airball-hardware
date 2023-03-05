@@ -1,4 +1,4 @@
-20890770211763399
+20894126185220096
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87486,7 +87486,21 @@ XCVR_ESP32-S3-WROOM-1-N16R2
 61
 61
 airball-hardware
+airball-logo-5mm
+
+
+0
+0
+0
+airball-hardware
 qwiic-logo
+
+
+0
+0
+0
+airball-hardware
+qwiic-logo-5mm
 
 
 0

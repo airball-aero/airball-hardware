@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 44,
-    "active_layer_preset": "Back Layers",
+    "active_layer": 0,
+    "active_layer_preset": "Front Assembly View",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -14,17 +14,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
       "graphics": true,
-      "keepouts": true,
-      "lockedItems": true,
+      "keepouts": false,
+      "lockedItems": false,
       "otherItems": true,
-      "pads": true,
-      "text": true,
-      "tracks": true,
-      "vias": true,
-      "zones": true
+      "pads": false,
+      "text": false,
+      "tracks": false,
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "0015055_80000000",
+    "visible_layers": "00290a0_00000000",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "baro-qwiic.kicad_prl",
+    "filename": "baro-temp-qwiic.kicad_prl",
     "version": 3
   },
   "project": {
