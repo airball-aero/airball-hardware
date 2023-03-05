@@ -497,7 +497,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "pressure-qwiic-3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
