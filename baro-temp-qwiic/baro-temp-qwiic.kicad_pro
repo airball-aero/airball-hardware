@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "baro-qwiic.kicad_pro",
+    "filename": "baro-temp-qwiic.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -382,7 +382,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "baro-qwiic.step",
+      "step": "baro-temp-qwiic.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
