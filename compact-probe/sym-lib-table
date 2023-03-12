@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "compact-probe")(type "KiCad")(uri "${KIPRJMOD}/compact-probe.kicad_sym")(options "")(descr ""))
+  (lib (name "airball-hardware")(type "KiCad")(uri "/home/ihab/airball-hardware/lib/airball-hardware.kicad_sym")(options "")(descr ""))
 )
