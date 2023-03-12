@@ -97,13 +97,13 @@
 
   (footprint "airball-hardware:qwiic-logo-5mm" (layer "F.Cu")
     (tedit 0) (tstamp 5f2022c7-61c4-4063-b513-c0dc9dac7d86)
-    (at 0 -14.4)
+    (at -3 -12 90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+    (fp_text reference "G***" (at 0 0 90) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 14ab01d8-de8c-4884-98db-6aa928890c74)
     )
-    (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
+    (fp_text value "LOGO" (at 0.75 0 90) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 832e651a-2da6-4f11-975a-2c4a535f128b)
     )
@@ -920,7 +920,7 @@
     (property "Sheetname" "")
     (path "/aa83e46f-f0c9-4fbe-9e8b-f176c57857a0")
     (attr smd)
-    (fp_text reference "J1" (at -2.6 -3.5 180) (layer "F.SilkS")
+    (fp_text reference "J1" (at 4 -3.5 180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 033af059-05db-42fb-b002-d7f0701a87b6)
     )
