@@ -1,0 +1,11 @@
+### Module positions - created on Tue 14 Mar 2023 06:16:29 PM PDT ###
+### Printed by Pcbnew version 6.0.10-86aedd382b~118~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                                PosX       PosY       Rot  Side
+D1        LED                  LED_0603_1608Metric                                -10.2500    19.2500  -90.0000  top
+J1        Conn_01x08_Male      JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal     8.0000     4.0000  180.0000  top
+J2        Conn_01x04_Male      JST_SM04B-SRSS-TB(LF)(SN)                           17.7500     2.0000  180.0000  top
+J3        Conn_02x05_Odd_Even  PinHeader_2x05_P1.27mm_Vertical                    -21.5000     2.5500    0.0000  top
+R5        120Ω                R_0603_1608Metric                                   -3.0000   -19.0000  180.0000  top
+## End

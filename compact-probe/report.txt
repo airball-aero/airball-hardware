@@ -1,0 +1,11 @@
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-F_Cu.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-B_Cu.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-F_Paste.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-B_Paste.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-F_Silkscreen.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-B_Silkscreen.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-F_Mask.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-B_Mask.gbr'.
+Plotted to '/home/ihab/airball-hardware/compact-probe/compact-probe-Edge_Cuts.gbr'.
+Created Gerber job file '/home/ihab/airball-hardware/compact-probe/compact-probe-job.gbrjob'.
+Info: Done.
