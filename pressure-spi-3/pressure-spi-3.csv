@@ -1,0 +1,5 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical";1;"Conn_01x08_Male";;;
+2;"U1,U2,U3";"TruStability SMT";3;"TruStability_SPI";;;
+3;"C11,C31,C21";"C_0603_1608Metric";3;"0.1uF";;;
+4;"C12,C32,C22";"C_0603_1608Metric";3;"4.7uF";;;

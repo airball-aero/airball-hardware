@@ -1,0 +1,12 @@
+### Module positions - created on Tue 14 Mar 2023 06:26:38 PM PDT ###
+### Printed by Pcbnew version 6.0.10-86aedd382b~118~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                 PosX       PosY       Rot  Side
+C21       0.1uF             C_0603_1608Metric   -20.7500    -5.2750  -90.0000  bottom
+C22       4.7uF             C_0603_1608Metric   -20.7500    -2.2750   90.0000  bottom
+C31       0.1uF             C_0603_1608Metric     5.2500    -5.5000  -90.0000  bottom
+C32       4.7uF             C_0603_1608Metric     5.2500    -2.5000   90.0000  bottom
+U2        TruStability_SPI  TruStability_SMT    -13.0000    -5.2500  -90.0000  bottom
+U3        TruStability_SPI  TruStability_SMT     13.0000    -5.2500  -90.0000  bottom
+## End
