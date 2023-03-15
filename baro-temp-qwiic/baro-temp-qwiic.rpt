@@ -1,0 +1,236 @@
+## Footprint report - date Tue 14 Mar 2023 06:41:19 PM PDT
+## Created by Pcbnew version 6.0.10-86aedd382b~118~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner -10.000000 -25.670238
+lower_right_corner 10.000000  5.000000
+$EndBOARD
+
+$MODULE C1
+footprint Capacitor_SMD:C_0603_1608Metric
+attribut smd
+position  0.734808 -10.500000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$MODULE C2
+footprint Capacitor_SMD:C_0603_1608Metric
+attribut smd
+position -0.765192 -10.500000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE C3
+footprint Capacitor_SMD:C_0603_1608Metric
+attribut smd
+position  0.000000 -18.250000  orientation 0.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE G***
+footprint airball-hardware:qwiic-logo-5mm
+attribut virtual
+position -3.000000 -12.000000  orientation 90.00
+layer front
+$EndMODULE  G***
+
+$MODULE G***
+footprint airball-hardware:airball-logo-5mm
+attribut virtual
+position  0.000000 -19.000000  orientation 0.00
+layer front
+$EndMODULE  G***
+
+$MODULE J1
+footprint airball-hardware:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical
+attribut smd
+position  0.500000 -12.000000  orientation 90.00
+layer front
+$PAD "1"
+Shape Roundrect Layer front
+position -1.500000  1.325000  size  0.600000  1.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer front
+position -0.500000  1.325000  size  0.600000  1.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Roundrect Layer front
+position  0.500000  1.325000  size  0.600000  1.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Roundrect Layer front
+position  1.500000  1.325000  size  0.600000  1.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Roundrect Layer front
+position  2.800000 -1.200000  size  1.200000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Roundrect Layer front
+position -2.800000 -1.200000  size  1.200000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE U1
+footprint airball-hardware:BMP388
+attribut none
+position -0.015192 -13.250000  orientation 0.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.765000  0.250000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position -0.765000 -0.250000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Roundrect Layer back
+position -0.500000 -0.765000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Roundrect Layer back
+position  0.000000 -0.765000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Roundrect Layer back
+position  0.500000 -0.765000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Roundrect Layer back
+position  0.765000 -0.250000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Roundrect Layer back
+position  0.765000  0.250000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Roundrect Layer back
+position  0.500000  0.765000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Roundrect Layer back
+position  0.000000  0.765000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Roundrect Layer back
+position -0.500000  0.765000  size  0.380000  0.350000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE U2
+footprint Package_TO_SOT_SMD:SOT-563
+attribut smd
+position  0.000000 -20.500000  orientation -90.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -0.750000  0.500000  size  0.700000  0.340000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -0.750000  0.000000  size  0.700000  0.340000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position -0.750000 -0.500000  size  0.700000  0.340000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  0.750000 -0.500000  size  0.700000  0.340000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position  0.750000  0.000000  size  0.700000  0.340000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  0.750000  0.500000  size  0.700000  0.340000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U2
+
+$EndDESCRIPTION
