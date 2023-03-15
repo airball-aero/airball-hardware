@@ -1,6 +1,6 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"C3,C2";"C_0603_1608Metric";2;"0.1uF";;;
-2;"J1";"JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical";1;"Conn_01x04_Male";;;
-3;"U2";"SOT-563";1;"TMP102xxDRL";;;
-4;"C1";"C_0603_1608Metric";1;"4.7uF";;;
-5;"U1";"BMP388";1;"BMP388";;;
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,"C3,C2",C_0603_1608Metric,2,0.1uF,standard part
+2,J1,JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,1,Conn_01x04_Male,https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-SRSS-TB-LF-SN/926861
+3,U2,SOT-563,1,TMP102xxDRL,https://www.digikey.com/en/products/detail/texas-instruments/TMP102AIDRLR/1907043
+4,C1,C_0603_1608Metric,1,4.7uF,standard part
+5,U1,BMP390,1,BMP390,https://www.digikey.com/en/products/detail/bosch-sensortec/BMP390/16164577
