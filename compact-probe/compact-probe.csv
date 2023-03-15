@@ -1,19 +1,19 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"R5";"R_0603_1608Metric";1;"120Ω";;;
-2;"D1";"LED_0603_1608Metric";1;"LED";;;
-3;"J2";"JST_SM04B-SRSS-TB(LF)(SN)";1;"Conn_01x04_Male";;;
-4;"J3";"PinHeader_2x05_P1.27mm_Vertical";1;"Conn_02x05_Odd_Even";;;
-5;"J1";"JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal";1;"Conn_01x08_Male";;;
-6;"C9";"C_0603_1608Metric";1;"100nF";;;
-7;"U6";"SOT-223-3_TabPin2";1;"LT1963AxST-3.3";;;
-8;"C5,C1,C6,C3";"C_0603_1608Metric";4;"10uF";;;
-9;"J6,J5,J4,J8,J7";"SolderWirePad_1x01_SMD_1x2mm";5;"Conn_01x01_Female";;;
-10;"R4,R3";"R_0603_1608Metric";2;"4.7k";;;
-11;"IC1";"SON65P300X300X90-9N-D";1;"ATA6561-GBQW-N";;;
-12;"R1";"R_0603_1608Metric";1;"10k";;;
-13;"C7";"C_0603_1608Metric";1;"0.1uF";;;
-14;"C10";"C_0603_1608Metric";1;"22uF";;;
-15;"R2";"R_0603_1608Metric";1;"750";;;
-16;"U4";"MODULE_ESP32-C3-WROOM-02-H4";1;"ESP32-C3-WROOM-02-H4";;;
-17;"PS1";"CONV_K7803MT-500R4";1;"K7803MT-500R4";;;
-18;"C4";"C_0603_1608Metric";1;"1uF";;;
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,R5,R_0603_1608Metric,1,120Ω,standard part
+2,D1,LED_0603_1608Metric,1,LED,standard part
+3,J2,JST_SM04B-SRSS-TB(LF)(SN),1,Conn_01x04_Male,https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/926710
+4,J3,PinHeader_2x05_P1.27mm_Vertical,1,Conn_02x05_Odd_Even,DO NOT POPULATE
+5,J1,JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal,1,Conn_01x08_Male,https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM08B-SRSS-TB-LF-SN/926879
+6,C9,C_0603_1608Metric,1,100nF,standard part
+7,U6,SOT-223-3_TabPin2,1,LT1963AxST-3.3,https://www.digikey.com/en/products/detail/analog-devices-inc/LT1963AEST-3-3-PBF/890887
+8,"C5,C1,C6,C3",C_0603_1608Metric,4,10uF,standard part
+9,"J6,J5,J4,J8,J7",SolderWirePad_1x01_SMD_1x2mm,5,Conn_01x01_Female,DO NOT POPULATE
+10,"R4,R3",R_0603_1608Metric,2,4.7k,standard part
+11,IC1,SON65P300X300X90-9N-D,1,ATA6561-GBQW-N,https://www.digikey.com/en/products/detail/microchip-technology/ATA6561-GBQW-N/9453101
+12,R1,R_0603_1608Metric,1,10k,standard part
+13,C7,C_0603_1608Metric,1,0.1uF,standard part
+14,C10,C_0603_1608Metric,1,22uF,standard part
+15,R2,R_0603_1608Metric,1,750,standard part
+16,U4,MODULE_ESP32-C3-WROOM-02-H4,1,ESP32-C3-WROOM-02-H4,https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-C3-WROOM-02-N4?qs=sGAEpiMZZMu3sxpa5v1qrhrB%252BBlYHY1O2YkhFjq1w70%3D
+17,PS1,CONV_K7803MT-500R4,1,K7803MT-500R4,https://www.digikey.com/en/products/detail/mornsun-america-llc/K7803MT-500R4/13168125
+18,C4,C_0603_1608Metric,1,1uF,standard part
