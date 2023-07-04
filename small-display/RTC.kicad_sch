@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 92d938cc-f8b1-437d-8914-3d97a0938f67)
+
+  (paper "A4")
+
+  (title_block
+    (title "Compute Module 4 IO Board - RTC - FAN")
+    (rev "1")
+    (company "© 2020-2022 Raspberry Pi Ltd (formerly Raspberry Pi (Trading) Ltd.)")
+    (comment 1 "www.raspberrypi.com")
+  )
+
+  (lib_symbols
+  )
+
+)
