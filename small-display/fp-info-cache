@@ -1,4 +1,4 @@
-20942222229581970
+20943910755866854
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87618,6 +87618,13 @@ MODULE_ESP32-C3-WROOM-02-H4
 0
 39
 39
+airball-hardware
+MOLEX_2047110001
+
+
+0
+30
+30
 airball-hardware
 PAM2804AAB010
 
