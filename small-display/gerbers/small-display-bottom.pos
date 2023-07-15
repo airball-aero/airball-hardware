@@ -1,0 +1,28 @@
+### Module positions - created on Thu 13 Jul 2023 09:44:20 PM PDT ###
+### Printed by Pcbnew version 6.0.11-2627ca5db0~126~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                        PosX       PosY       Rot  Side
+C1        10u                  C_0805_2012Metric          -27.2500   -11.0000  -90.0000  bottom
+C2        10_uF                C_0603_1608Metric          -19.7500   -25.7500    0.0000  bottom
+C3        10_uF                C_0603_1608Metric          -12.0000   -26.6500  180.0000  bottom
+C4        0.1_uF               C_0603_1608Metric           -4.2500   -13.5000  180.0000  bottom
+C5        0.1_uF               C_0603_1608Metric           -3.2500   -23.3275  -90.0000  bottom
+C6        0.1uF                C_0603_1608Metric          -33.2500   -23.0000  180.0000  bottom
+CX1       6_pF                 C_0603_1608Metric           -7.7500   -27.0775  -90.0000  bottom
+CX2       6_pF                 C_0603_1608Metric           -5.2500   -27.0775  -90.0000  bottom
+J2        Micro_SD_Card_Det    SDCARD_MOLEX_503398-1892   -35.7500   -10.0000   90.0000  bottom
+J5        F32D-1A7Y1-21040     F32D-1A7Y1-21040           -21.5000   -31.0000  180.0000  bottom
+R3        12K_1%               R_0402_1005Metric          -21.0000   -11.0000  -90.0000  bottom
+R4        10k                  R_0402_1005Metric          -14.5000   -21.5000   90.0000  bottom
+R5        1_Ω                 R_0402_1005Metric          -12.0000   -22.5200  180.0000  bottom
+R8        1_M                  R_0402_1005Metric           -6.3936   -29.3275    0.0000  bottom
+R9        12k_1%               R_0402_1005Metric           -3.2500   -26.3175  -90.0000  bottom
+R10       10k                  R_0402_1005Metric          -25.2500   -15.0000    0.0000  bottom
+U3        RT9742GGJ5           SOT-23-5                   -23.7500   -11.0000  180.0000  bottom
+U4        PAM2804AAB010        PAM2804AAB010              -15.5000   -24.7500  -90.0000  bottom
+U5        USB2412-DZK          QFN50P500X500X100-29N       -6.0000   -18.0000    0.0000  bottom
+U6        NLVVHC1G04DFT1G      SOT65P210X110-5N            -7.7250   -13.2500  180.0000  bottom
+U7        M24M01-DFDW6TP       TSSOP_FDW6TP_STM           -30.7500   -20.2500    0.0000  bottom
+Y1        ECS-240-8-33-AGN-TR  XTAL_ECS-240-8-33-AGN-TR    -6.4000   -23.4775    0.0000  bottom
+## End
