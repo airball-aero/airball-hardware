@@ -1,0 +1,29 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,"R1,R2",R_0402_1005Metric,2,1k,Common part
+2,"R6,R7",R_0402_1005Metric,2,5.1k,Common part
+3,J1,MOLEX_2047110001,1,2047110001,https://www.digikey.com/en/products/detail/molex/2047110001/10440492
+4,U2,SOT-353_SC-70-5,1,74LVC1G07SE-7,https://www.digikey.com/en/products/detail/diodes-incorporated/74LVC1G07SE-7/2356534
+5,U1,USON-10_2.5x1.0mm_P0.5mm,1,TPD4EUSB30,https://www.digikey.com/en/products/detail/texas-instruments/TPD4EUSB30DQAR/2503665
+6,D2,LED_0603_1608Metric,1,LED Red,Common part
+7,L1,IND_VLS5045EX-4R7M,1,VLS5045EX-4R7M,https://www.digikey.com/en/products/detail/tdk-corporation/VLS5045EX-4R7M/5286685
+8,D1,LED_0603_1608Metric,1,LED Green,Common part
+9,Module1,Raspberry-Pi-4-Compute-Module,2,DF40C-100DS-0.4V(51),https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476
+10,"TP4,TP1,TP5,TP10,TP11,TP8,TP2,TP7,TP13,TP12,TP6,TP3,TP9",TestPoint_Pad_D1.0mm,13,TestPoint,DNP
+11,"R4,R10",R_0402_1005Metric,2,10k,Common part
+12,"C4,C5",C_0603_1608Metric,2,0.1 uF,Common part
+13,U6,SOT65P210X110-5N,1,NLVVHC1G04DFT1G,https://www.digikey.com/en/products/detail/onsemi/NLVVHC1G04DFT1G/1484561
+14,"C2,C3",C_0603_1608Metric,2,10 uF,Common part
+15,"CX2,CX1",C_0603_1608Metric,2,6 pF,Common part
+16,U5,QFN50P500X500X100-29N,1,USB2412-DZK,https://www.digikey.com/en/products/detail/microchip-technology/USB2412-DZK/2638181
+17,R8,R_0402_1005Metric,1,1 M,Common part
+18,U4,PAM2804AAB010,1,PAM2804AAB010,https://www.digikey.com/en/products/detail/diodes-incorporated/PAM2804AAB010/4033351
+19,U3,SOT-23-5,1,RT9742GGJ5,https://www.digikey.com/en/products/detail/richtek-usa-inc/RT9742GGJ5/5880519
+20,R3,R_0402_1005Metric,1,12K 1%,Common part
+21,C1,C_0805_2012Metric,1,10u,Common part
+22,J2,SDCARD_MOLEX_503398-1892,1,Micro_SD_Card_Det,https://www.digikey.com/en/products/detail/molex/5033981892/4555393
+23,Y1,XTAL_ECS-240-8-33-AGN-TR,1,ECS-240-8-33-AGN-TR,https://www.digikey.com/en/products/detail/ecs-inc/ECS-240-8-33-AGN-TR/8023350
+24,R9,R_0402_1005Metric,1,12k 1%,Common part
+25,C6,C_0603_1608Metric,1,0.1uF,Common part
+26,U7,TSSOP_FDW6TP_STM,1,M24M01-DFDW6TP,https://www.digikey.com/en/products/detail/stmicroelectronics/M24M01-DFDW6TP/4729292
+27,R5,R_0402_1005Metric,1,1 Ω,Common part
+28,J5,F32D-1A7Y1-21040,1,F32D-1A7Y1-21040,https://www.digikey.com/en/products/detail/amphenol-cs-fci/F32D-1A7Y1-21040/11564657
