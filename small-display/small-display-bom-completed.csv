@@ -27,3 +27,4 @@ Id,Designator,Package,Quantity,Designation,Supplier and ref
 26,U7,TSSOP_FDW6TP_STM,1,M24M01-DFDW6TP,https://www.digikey.com/en/products/detail/stmicroelectronics/M24M01-DFDW6TP/4729292
 27,R5,R_0402_1005Metric,1,1 Ω,Common part
 28,J5,F32D-1A7Y1-21040,1,F32D-1A7Y1-21040,https://www.digikey.com/en/products/detail/amphenol-cs-fci/F32D-1A7Y1-21040/11564657
+29,"R12,R11",R_0603_1608Metric,2,4.7k,Common part

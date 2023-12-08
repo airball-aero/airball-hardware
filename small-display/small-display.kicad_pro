@@ -514,7 +514,7 @@
       "idf": "",
       "netlist": "CM4IO.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "small-display.step",
       "vmrl": "",
       "vrml": ""
     },
