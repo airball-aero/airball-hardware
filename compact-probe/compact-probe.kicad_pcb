@@ -83,7 +83,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "./")
+      (outputdirectory "gerbers")
     )
   )
 
@@ -847,8 +847,8 @@
       (net 18 "SS3") (pinfunction "Pin_7") (pintype "passive") (tstamp b97be06b-a014-43db-aa74-d5ecc62acfe7))
     (pad "8" smd roundrect (at 3.5 -2 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 22 "SS4") (pinfunction "Pin_8") (pintype "passive") (tstamp a14d9a60-065a-47e1-85c4-becf23bf1dc4))
-    (pad "MP" smd roundrect (at -4.8 1.875 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 1fefa5ed-115b-4f2c-9b91-6ae115e2f757))
-    (pad "MP" smd roundrect (at 4.8 1.875 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 6d1be94d-d2fa-44ff-b3a1-177499120870))
+    (pad "MP" smd roundrect (at -4.8 1.875 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp 1fefa5ed-115b-4f2c-9b91-6ae115e2f757))
+    (pad "MP" smd roundrect (at 4.8 1.875 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp 6d1be94d-d2fa-44ff-b3a1-177499120870))
     (model "/home/ihab/airball-hardware/lib/airball-hardware.pretty/SM08B-SRSS-TB.STEP"
       (offset (xyz 0 1.5 -0.3))
       (scale (xyz 1 1 1))

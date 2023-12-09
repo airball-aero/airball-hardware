@@ -1,0 +1,17 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,D1,LED_0603_1608Metric,1,LED,Standard part
+2,"R6,R5",R_0603_1608Metric,2,60Ω,Standard part
+3,J2,JST_SM04B-SRSS-TB(LF)(SN),1,Conn_01x04_Male,https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/926710
+4,J3,PinHeader_2x05_P1.27mm_Vertical,1,Conn_02x05_Odd_Even,DO NOT POPULATE
+5,J1,JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal,1,Conn_01x08_Male,https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM08B-SRSS-TB-LF-SN/926879
+6,"C9,C5,C1,C6,C3",C_0603_1608Metric,5,10uF,Standard part
+7,U6,SOT-223-3_TabPin2,1,LT1963AxST-3.3,https://www.digikey.com/en/products/detail/analog-devices-inc/LT1963AEST-3-3-PBF/890887
+8,"J6,J5,J4,J8,J7",SolderWirePad_1x01_SMD_1x2mm,5,Conn_01x01_Female,DO NOT POPULATE
+9,U1,TJA1051T_3_118,1,TJA1051T_3_118,https://www.digikey.com/en/products/detail/nxp-usa-inc/TJA1051T-3-118/2406253
+10,"R4,R3",R_0603_1608Metric,2,4.7k,Standard part
+11,R1,R_0603_1608Metric,1,10k,Standard part
+12,C7,C_0603_1608Metric,1,0.1uF,Standard part
+13,R2,R_0603_1608Metric,1,750,Standard part
+14,U4,MODULE_ESP32-C3-WROOM-02-H4,1,ESP32-C3-WROOM-02-H4,https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-C3-WROOM-02-N4?qs=sGAEpiMZZMu3sxpa5v1qrhrB%252BBlYHY1O2YkhFjq1w70%3D
+15,PS1,CONV_K7805MT-500R4,1,K7805MT-500R4,https://www.digikey.com/en/products/detail/mornsun-america-llc/K7805MT-500R4/13168100
+16,C4,C_0603_1608Metric,1,1uF,Standard part

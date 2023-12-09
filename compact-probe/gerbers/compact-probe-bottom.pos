@@ -1,0 +1,21 @@
+### Module positions - created on Fri 08 Dec 2023 07:13:46 PM PST ###
+### Printed by Pcbnew version 6.0.11-2627ca5db0~126~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                   Package                           PosX       PosY       Rot  Side
+C1        10uF                  C_0603_1608Metric              -2.0000    -6.0000   90.0000  bottom
+C3        10uF                  C_0603_1608Metric             -17.0000    -9.5000  180.0000  bottom
+C4        1uF                   C_0603_1608Metric               0.9000    -1.5000  -90.0000  bottom
+C5        10uF                  C_0603_1608Metric             -10.5000    -1.5000   90.0000  bottom
+C6        10uF                  C_0603_1608Metric             -10.7500    12.2500  -90.0000  bottom
+C7        0.1uF                 C_0603_1608Metric             -10.7500    15.5000   90.0000  bottom
+C9        10uF                  C_0603_1608Metric               2.5000    -8.7500  -90.0000  bottom
+PS1       K7805MT-500R4         CONV_K7805MT-500R4             -6.7500    -9.2500  180.0000  bottom
+R1        10k                   R_0603_1608Metric              -0.8500    -1.5000   90.0000  bottom
+R2        750                   R_0603_1608Metric              10.5000    18.7500  -90.0000  bottom
+R3        4.7k                  R_0603_1608Metric             -11.0000     7.5000  -90.0000  bottom
+R4        4.7k                  R_0603_1608Metric             -11.0000     4.5000   90.0000  bottom
+U1        TJA1051T_3_118        TJA1051T_3_118                  7.7500    -7.2500  180.0000  bottom
+U4        ESP32-C3-WROOM-02-H4  MODULE_ESP32-C3-WROOM-02-H4     0.0000    11.0000  180.0000  bottom
+U6        LT1963AxST-3.3        SOT-223-3_TabPin2             -15.5000    -4.2500   90.0000  bottom
+## End
