@@ -2461,7 +2461,7 @@
     (property "Value" "K7805MT-500R4" (id 1) (at -12.7014 -12.7027 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "K7805MT-500R4:CONV_K7805MT-500R4" (id 2) (at 0 0 0)
+    (property "Footprint" "airball-hardware:CONV_K7805MT-500R4" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
