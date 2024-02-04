@@ -1,0 +1,26 @@
+Drill report for stick-switch.kicad_pcb
+Created on Sun 04 Feb 2024 10:42:53 AM PST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'stick-switch-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (5 holes)
+    T2  1.000mm  0.0394"  (2 holes)
+    T3  1.000mm  0.0394"  (8 holes)
+    T4  1.500mm  0.0591"  (2 holes)
+
+    Total plated holes count 17
+
+
+Drill file 'stick-switch-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.100mm  0.0827"  (6 holes)
+
+    Total unplated holes count 6
