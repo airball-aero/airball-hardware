@@ -244,7 +244,7 @@
 
   (footprint "airball-hardware:TruStability SMT RR" (layer "F.Cu")
     (tstamp 91bca7af-43a1-4f35-b342-3068c0a4676e)
-    (at 13 5.25 -90)
+    (at 13.0048 5.25 -90)
     (property "Sheetfile" "pressure-spi-4.kicad_sch")
     (property "Sheetname" "")
     (path "/20be495a-7f03-4391-a489-5ad51b4824ea")
@@ -353,7 +353,7 @@
 
   (footprint "airball-hardware:TruStability SMT RN" (layer "F.Cu")
     (tstamp bf12c532-c049-49a5-aca1-785cb7e5b713)
-    (at -13 5.25 -90)
+    (at -13.0048 5.25 -90)
     (property "Sheetfile" "pressure-spi-4.kicad_sch")
     (property "Sheetname" "")
     (path "/61276890-65a1-4c24-9006-486479dc2870")
@@ -1138,7 +1138,7 @@
 
   (footprint "airball-hardware:TruStability SMT RR" (layer "B.Cu")
     (tstamp 8ba15e98-1316-499d-b402-f85783514280)
-    (at 13 5.25 -90)
+    (at 13.0048 5.25 -90)
     (property "Sheetfile" "pressure-spi-4.kicad_sch")
     (property "Sheetname" "")
     (path "/a96e99ad-fba7-4377-99d5-bba228bb520f")
@@ -1247,7 +1247,7 @@
 
   (footprint "airball-hardware:TruStability SMT RR" (layer "B.Cu")
     (tstamp eac7a565-b1fc-47e4-ad47-6073ac128553)
-    (at -13 5.25 -90)
+    (at -13.0048 5.25 -90)
     (property "Sheetfile" "pressure-spi-4.kicad_sch")
     (property "Sheetname" "")
     (path "/6f3d2200-07c1-4b94-acf2-6299af5d7483")
