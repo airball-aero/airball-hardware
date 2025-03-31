@@ -1,4 +1,4 @@
-23104317983439906
+23107804560834973
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94570,6 +94570,13 @@ QFN50P500X500X100-29N
 29
 29
 airball-hardware
+SHT4X humidity sensor
+Consumer SHT4x Digital and Analog
+
+0
+4
+4
+airball-hardware
 SON65P300X300X90-9N-D
 ATA6561-GBQW-N
 Integrated Circuit
@@ -94632,6 +94639,13 @@ TruStability SMT RR
 0
 8
 8
+airball-hardware
+XCVR_ESP32-C3-WROOM-02U-N4
+
+
+0
+39
+39
 airball-hardware
 XCVR_ESP32-S3-WROOM-1-N16R2
 
